@@ -1,0 +1,146 @@
+*{
+    padding:0px;
+    font-family:robotoslab;
+}
+
+.info{
+    height: 50cm;
+    margin-top: 125px;
+    width: 450px;
+    margin-left: 2cm;
+
+}
+.navbar {
+    background-color: #CCDBDC; 
+    padding: 20px; /
+}
+
+.navbar-brand {
+    color: #007ea7; /* Navbar brand color */
+    font-weight: bold;
+    font-size: 38px;
+
+}
+
+ /* Navbar brand font weight */
+
+
+.navbar-nav .nav-link:hover {
+    color: blue; /* Text color on hover */
+}
+
+.navbar-toggler {
+    border-color: #007bff; /* Navbar toggle button border color */
+}
+
+.navbar-toggler-icon {
+    background-color: #007bff; /* Navbar toggle button icon color */
+}
+/* Custom styling for navbar */
+.navbar {
+    background-color:#CCDBDC;    ; /* Navbar background color */
+    padding: 20px; /* Increase padding to increase size */
+}
+
+
+.navbar-brand {
+    font-size: 24px; 
+}
+
+.navbar-nav .nav-link {
+    font-size: 18px; /* Increase font size of navbar links */
+}
+
+.btn:hover{
+    color: #007bff;
+}
+
+.custom-brand {
+    font-size: 30px;
+}
+
+.pic {
+    height: 60vw; /* Set height relative to the viewport width */
+    max-height: 481px; /* Set maximum height */
+    width: 60vw; /* Set width relative to the viewport width */
+    max-width: 425px; /* Set maximum width */
+    background-image: url(packaging.jpeg);
+    background-size: cover;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -5vw; /* Set top margin relative to the viewport width */
+  }
+  
+  @media (max-width: 768px) {
+    .pic {
+      height: 40vw; /* Adjust height for smaller screens */
+      width: 40vw; /* Adjust width for smaller screens */
+      margin-top: -8vw; /* Adjust top margin for smaller screens */
+    }
+  }
+  
+  @media (max-width: 480px) {
+    .pic {
+      height: 50vw; /* Further adjust height for even smaller screens */
+      width: 50vw; /* Further adjust width for even smaller screens */
+      margin-top: -10vw; /* Further adjust top margin for even smaller screens */
+    }
+  }
+  
+
+
+.mb-6 {
+    margin-bottom: 12.5rem;
+}
+.mb-2 {
+    margin-bottom: -0.5rem;
+    margin-top: -3.5rem;
+}
+.leading-relaxed {
+    width: 700px;
+    line-height: 1.800;
+
+}
+.text-xl {
+    font-size: 1.25rem;
+    line-height: 3.75rem;
+}
+
+
+element.style {
+    margin-top: 15px;
+}
+
+#pack{
+    margin-left: 10px;
+
+}
+.rounded {
+    border-radius: 2.25rem;
+}
+
+
+.lg\:pl-24 {
+    padding-left: 4rem;
+}
+
+
+.align-left {
+    float: left;
+}
+
+#packaging{
+    font-size: 3.875rem;
+    line-height: 3.25rem;
+}
+
+#para{
+    font-size: 30px;
+    width: 60px;
+}
+
+.mb-20 {
+    margin-bottom: 5rem;
+    margin-top: -5rem;
+}
+

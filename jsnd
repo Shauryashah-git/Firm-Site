@@ -1,0 +1,17 @@
+ <section class="text-gray-600 body-font overflow-hidden">
+    <div class="container px-5 py-24 mx-auto">
+      <div class="lg:w-4/5 mx-auto flex flex-wrap">
+        <img alt="ecommerce" class="lg:w-1/2 w-full lg:h-auto h-64 object-cover object-center rounded"
+          src="packaging.jpeg">
+        <div class="lg:w-1/2 w-full lg:pl-10 lg:py-6 mt-6 lg:mt-0">
+          <h2 class="text-sm title-font text-gray-500 tracking-widest"></h2>
+          <h1 class="text-gray-900 text-3xl title-font font-medium mb-1" id="pack">Packaging Material</h1>
+          <p class="leading-relaxed">Our packaging material above 120 microns is designed to provide exceptional
+            strength and durability, making it ideal for a wide range of applications. Made from high-quality materials,
+            our packaging is resistant to tears, punctures, and moisture, ensuring that your products remain safe and
+            secure during transportation and storage. With a thickness exceeding 120 microns, our packaging offers
+            superior protection, making it suitable for heavy or fragile items. Whether you're shipping goods or storing
+            inventory, our packaging material above 120 microns provides the reliability and performance you need to
+            ensure that your products reach their destination in perfect condition.</p>
+        </div>
+      </div>
